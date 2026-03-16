@@ -25,8 +25,7 @@
         "repo": "dubtor/gemini-image-plugin"
       },
       "description": "Generate and edit images via Google Gemini API. Text-to-image and image-to-image with reference images.",
-      "version": "1.0.0",
-      "keywords": ["image-generation", "gemini", "google", "nano-banana", "text-to-image", "image-to-image"],
+      "keywords": ["image-generation", "gemini", "google", "text-to-image", "image-to-image"],
       "category": "creative"
     }
   ]

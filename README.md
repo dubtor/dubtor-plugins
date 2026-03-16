@@ -7,6 +7,7 @@ Plugin marketplace for [Claude Code](https://claude.ai/code) by [@dubtor](https:
 | Plugin | Description |
 |---|---|
 | [fal-image](https://github.com/dubtor/fal-image-plugin) | AI image generation via fal.ai (Nano Banana 2) |
+| [gemini-image](https://github.com/dubtor/gemini-image-plugin) | AI image generation via Google Gemini API |
 
 ## Installation
 
