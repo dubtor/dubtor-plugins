@@ -1,0 +1,22 @@
+{
+  "name": "dubtor-plugins",
+  "owner": {
+    "name": "dubtor"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by dubtor"
+  },
+  "plugins": [
+    {
+      "name": "fal-image",
+      "source": {
+        "source": "github",
+        "repo": "dubtor/fal-image-plugin"
+      },
+      "description": "Generate and edit images via fal.ai (Nano Banana 2). Text-to-image and image-to-image with reference images.",
+      "version": "1.1.0",
+      "keywords": ["image-generation", "fal-ai", "nano-banana", "text-to-image", "image-to-image"],
+      "category": "creative"
+    }
+  ]
+}
